@@ -6,7 +6,7 @@
 	<groupId>br.com</groupId>
 	<artifactId>calculadora</artifactId>
 	<version>fdx</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>calculadora</name>
 	<description>Demo project for Spring Boot</description>
